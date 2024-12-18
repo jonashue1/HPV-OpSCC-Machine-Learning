@@ -1,0 +1,20 @@
+{
+  "pathClasses": [
+    {
+      "name": "Epithelium",
+      "color": -11502406
+    },
+    {
+      "name": "Others",
+      "color": -687806
+    },
+    {
+      "name": "Background",
+      "color": -7662170
+    },
+    {
+      "name": "Keratinisation",
+      "color": -4972544
+    }
+  ]
+}
